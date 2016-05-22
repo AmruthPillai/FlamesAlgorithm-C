@@ -1,5 +1,7 @@
 # Flames Algorithm
-## Implementation in C++
+#### Implementation in C++
+
+---
 
 #### Logo
 <img src="https://cloud.githubusercontent.com/assets/1134738/15452569/8447ae9e-2011-11e6-8b4e-0f72ed407891.png" width="256">
