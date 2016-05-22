@@ -1,5 +1,5 @@
 # Flames Algorithm
-#### Implementation in Java/Android
+#### Implementation in C++
 
 > Check out the implementation in Python here: [AmruthPillai/FlamesAlgorithm-Python](https://github.com/AmruthPillai/FlamesAlgorithm-Python)  
 > Check out the implementation in Java/Android here: [AmruthPillai/FlamesAlgorithm-Android](https://github.com/AmruthPillai/FlamesAlgorithm-Android)  
