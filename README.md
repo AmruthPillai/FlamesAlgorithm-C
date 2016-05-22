@@ -79,9 +79,8 @@ The final letter that remains is the predicted nature of the relationship betwee
 ---
 
 ### Authors
-Amruth A. Pillai  
-[Facebook](https://www.facebook.com/AmruthPillai)  
-Email: im.amruth(at)gmail.com  
+> **Amruth A. Pillai** [Facebook](https://www.facebook.com/AmruthPillai)  
+> *Email:* im.amruth(at)gmail.com  
 
-Prabhu B.  
-Email: im.prabhu(at)gmail.com  
+> **Prabhu B.**  
+> *Email:* im.prabhu(at)gmail.com  
