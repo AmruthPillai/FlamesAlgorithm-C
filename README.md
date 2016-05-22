@@ -1,8 +1,7 @@
 # Flames Algorithm
-### Implementation in C++
+## Implementation in C++
 
----
-
+#### Logo
 <img src="https://cloud.githubusercontent.com/assets/1134738/15452569/8447ae9e-2011-11e6-8b4e-0f72ed407891.png" width="256">
 
 ---
@@ -13,5 +12,5 @@ The game of FLAMES is apparently a popular game played by teenagers as a way to 
 ---
 
 #### Authors
-> Raja Rajan A. (aka Amruth A. Pillai)  
-> Email: im.amruth(at)gmail.com
+Raja Rajan A. (aka Amruth A. Pillai)  
+Email: im.amruth(at)gmail.com
