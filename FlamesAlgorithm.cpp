@@ -14,6 +14,9 @@ The game of FLAMES is apparently a popular game played by teenagers as a way to 
 Authors:
 Raja Rajan A. (aka Amruth A. Pillai)
 Email: im.amruth(at)gmail.com
+
+Prabhu B.
+Email: im.prabhu(at)gmail.com
 */
 
 int k = 0;
