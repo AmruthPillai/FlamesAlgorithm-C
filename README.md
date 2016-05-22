@@ -1,8 +1,8 @@
 # Flames Algorithm
-#### Implementation in C++
+#### Implementation in Java/Android
 
-> Check out the implementation in Python here: AmruthPillai/FlamesAlgorithm-Python  
-> Check out the implementation in Java/Android here: AmruthPillai/FlamesAlgorithm-Android  
+> Check out the implementation in Python here: [AmruthPillai/FlamesAlgorithm-Python](https://github.com/AmruthPillai/FlamesAlgorithm-Python)  
+> Check out the implementation in Java/Android here: [AmruthPillai/FlamesAlgorithm-Android](https://github.com/AmruthPillai/FlamesAlgorithm-Android)  
 
 ---
 
@@ -79,8 +79,5 @@ The final letter that remains is the predicted nature of the relationship betwee
 ---
 
 ### Authors
-> **Amruth A. Pillai** [Facebook](https://www.facebook.com/AmruthPillai)  
+> **Amruth A. Pillai** - [Facebook Profile](https://www.facebook.com/AmruthPillai)  
 > *Email:* im.amruth(at)gmail.com  
-
-> **Prabhu B.**  
-> *Email:* im.prabhu(at)gmail.com  
